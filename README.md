@@ -1,2 +1,2 @@
-# Lab_Assignment_2
-Assignment
+# lab_assignment2
+This is a Readme file 
